@@ -1,0 +1,22 @@
+{
+  "name": "riesgos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acrespor75/riesgos.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/acrespor75/riesgos/issues"
+  },
+  "homepage": "https://github.com/acrespor75/riesgos#readme",
+  "dependencies": {
+    "firebase": "^7.20.0"
+  }
+}
